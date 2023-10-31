@@ -9,7 +9,7 @@ I'm Abed Bakkour, a passionate data enthusiast pursuing my M.Sc. in Data Science
 - 🎓 Currently, I'm in the second year of my M.Sc. in Data Science, actively expanding my data expertise.
 - 🎙️ With experience in data analysis and a focus on a wide range of domains, I've been involved in numerous data-driven projects.
 - 💬 Feel free to reach out for discussions related to data science, machine learning, and data engineering, or to explore potential collaborations.
-- 📧 You can contact me at [aak.bakkour@hotmail.com](mailto:aak.bakkour@hotmail.com).
+- 📧 You can contact me at [aak.bakkour@hotmail.com](mailto:aak.bakkour@hotmail.com)
 
 ## Expertise
 
