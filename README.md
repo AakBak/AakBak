@@ -12,9 +12,8 @@ I focus on **machine learning, reinforcement learning, and AI for complex system
 - **Explainable AI:** LIME, SHAP  
 - **Research & Simulation:** Simulation environments, physics-informed models, industrial datasets  
 
-## 📬 Get in Touch
+### 🔹 Contact
  
  - [**Gravatar Profile – Abed Bakkour**](https://gravatar.com/colorfulcrusadeb1dfd8ceab)
-
 
 I’m open to **research collaborations, discussions, and knowledge sharing** in multi-agent AI, machine learning, and industrial applications.
