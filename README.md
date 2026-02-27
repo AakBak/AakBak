@@ -19,8 +19,6 @@ Abed Bakkour is a doctoral researcher at the University of Skövde, Sweden, spec
   <img src="https://2.gravatar.com/avatar/82393187004409460d414e55dc88087864aead03f3016289339ed4425fe6d7c2?s=256" width="110">
 </a>
 
-<br><br>
-
 <a href="https://gravatar.com/abedbakkour"><b>Abed Bakkour</b></a>
 
 </td>
