@@ -36,57 +36,6 @@ I focus on **machine learning, reinforcement learning, and AI for complex system
 						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/gravatar.svg" width="32" height="32" alt="Gravatar">
 					</a>
 					
-					<a class="gravatar-hovercard__social-link" href="https://www.linkedin.com/in/abed-bakkour-73246b102" target="_blank" data-service-name="linkedin">
-						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/linkedin.svg" width="32" height="32" alt="LinkedIn">
-					</a>
-				
-					<a class="gravatar-hovercard__social-link" href="https://github.com/AakBak" target="_blank" data-service-name="github">
-						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/github.svg" width="32" height="32" alt="GitHub">
-					</a>
-				
-				</div>
-				
-				<div class="gravatar-hovercard__footer">
-					<a class="gravatar-hovercard__profile-url" title="https://gravatar.com/abedbakkour" href="https://gravatar.com/abedbakkour?utm_source=profile-card" target="_blank">
-						gravatar.com/abedbakkour
-					</a>
-					<a class="gravatar-hovercard__profile-link" href="https://gravatar.com/abedbakkour?utm_source=profile-card" target="_blank">
-						View profile →
-					</a>
-				</div>
-				
-				
-				<div class="gravatar-hovercard__profile-color" style="background: rgb(47, 14, 65);"></div>
-			</div>
-		<script>
-		const hovercardInner = document.querySelector('.gravatar-hovercard__inner');
-
-		function openDrawer( target, container ) {
-			const selector = '.gravatar-hovercard__drawer[data-drawer-name="' + target.dataset.targetDrawer + '"]';
-			const drawer = container.querySelector( selector );
-			drawer?.classList.add( 'gravatar-hovercard__drawer--open' );
-		}
-
-		function closeDrawer( target, container ) {
-			const selector = '.gravatar-hovercard__drawer[data-drawer-name="' + target.dataset.targetDrawer + '"]';
-			const drawer = container.querySelector( selector );
-			drawer?.classList.add( 'gravatar-hovercard__drawer--closing' );
-			drawer?.classList.remove( 'gravatar-hovercard__drawer--open' );
-
-			setTimeout( () => {
-				drawer?.classList.remove( 'gravatar-hovercard__drawer--closing' );
-			}, 300 );
-		}
-
-		hovercardInner.querySelectorAll( '.gravatar-hovercard__button' ).forEach( ( el ) => {
-			el.addEventListener( 'click', () => openDrawer( el, hovercardInner ) );
-		} );
-		hovercardInner.querySelectorAll( '.gravatar-hovercard__drawer-close' ).forEach( ( el ) => {
-			el.addEventListener( 'click', () => closeDrawer( el, hovercardInner ) );
-		} );
-		hovercardInner.querySelectorAll( '.gravatar-hovercard__drawer-backdrop' ).forEach( ( el ) => {
-			el.addEventListener( 'click', () => closeDrawer( el, hovercardInner ) );
-		} );
 	</script></div>
 
 I’m open to **research collaborations, discussions, and knowledge sharing** in multi-agent AI, machine learning, and industrial applications.
