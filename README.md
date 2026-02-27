@@ -11,12 +11,20 @@ Abed Bakkour is a doctoral researcher at the University of Skövde, Sweden, spec
 - **Research & Simulation:** Simulation environments, physics-informed models, industrial datasets
 
 ### 🔹 Contact
-<p align="left">
-  <a href="https://gravatar.com/abedbakkour">
-    <img src="https://2.gravatar.com/avatar/82393187004409460d414e55dc88087864aead03f3016289339ed4425fe6d7c2?s=256" width="80">
-  </a>
-  <br>
-  <a href="https://gravatar.com/abedbakkour"><b>Abed Bakkour</b></a>
-</p>
+<table>
+<tr>
+<td align="center" width="220">
+
+<a href="https://gravatar.com/abedbakkour">
+  <img src="https://2.gravatar.com/avatar/82393187004409460d414e55dc88087864aead03f3016289339ed4425fe6d7c2?s=256" width="110">
+</a>
+
+<br><br>
+
+<a href="https://gravatar.com/abedbakkour"><b>Abed Bakkour</b></a>
+
+</td>
+</tr>
+</table>
 
 I’m open to **research collaborations, discussions, and knowledge sharing** in multi-agent AI, machine learning, and industrial applications.
