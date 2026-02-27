@@ -1,4 +1,4 @@
-## 📊 PhD Researcher | Distributed AI | Data Scientist
+## PhD Researcher | Distributed AI | Data Scientist
 
 Hi! I’m **Abed Bakkour**, a PhD researcher specializing in **multi-agent systems, distributed AI, and industrial applications**. I hold an **M.Sc. in Data Science** and a **B.Sc. in Computer Science**.
 
