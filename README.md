@@ -14,6 +14,6 @@ I focus on **machine learning, reinforcement learning, and AI for complex system
 
 ### 🔹 Contact
  
- - [**Abed Bakkour**](https://gravatar.com/abedbakkour)
+   [**Abed Bakkour**](https://gravatar.com/abedbakkour)
    
 I’m open to **research collaborations, discussions, and knowledge sharing** in multi-agent AI, machine learning, and industrial applications.
