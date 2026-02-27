@@ -13,6 +13,6 @@ Abed Bakkour is a doctoral researcher at the University of Skövde, Sweden, spec
 ### 🔹 Contact
  
  [**Abed Bakkour**](https://gravatar.com/abedbakkour)
- [![Profile](https://2.gravatar.com/avatar/82393187004409460d414e55dc88087864aead03f3016289339ed4425fe6d7c2?s=256)](https://gravatar.com/abedbakkour)
+ [[Profile](https://2.gravatar.com/avatar/82393187004409460d414e55dc88087864aead03f3016289339ed4425fe6d7c2?s=256)](https://gravatar.com/abedbakkour)
 
 I’m open to **research collaborations, discussions, and knowledge sharing** in multi-agent AI, machine learning, and industrial applications.
